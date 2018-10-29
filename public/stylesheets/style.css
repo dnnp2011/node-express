@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+p {
+  font-size: 14pt;
+  color: orange; }
+
+h1 {
+  font-weight: bold; }
+
+.myTable {
+  border: 1px solid black; }
+
+/*# sourceMappingURL=style.css.map */
